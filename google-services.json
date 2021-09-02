@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790957999662",
+    "project_id": "business-is-business",
+    "storage_bucket": "business-is-business.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790957999662:android:f6c5d6cdc275042741c1bf",
+        "android_client_info": {
+          "package_name": "com.business.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790957999662-bi5k0a5v991vr03eje6p3tabv634tr5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKc1XvhVsOxpLQV8VqL5KEdn-fQ3PP5c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790957999662-bi5k0a5v991vr03eje6p3tabv634tr5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
